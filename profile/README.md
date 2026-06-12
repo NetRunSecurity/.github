@@ -1,85 +1,67 @@
-# NetRunSecurity
+<div align="center">
 
-**Offensive Security · Penetration Testing · Public Speaking**
+<img src="./assets/sleep.gif" alt="netrunner taking a break" width="500"/>
 
-Offensive security consulting and hardware hacking, based in Montreal, Quebec. We help organizations find vulnerabilities before attackers do, and we talk about how it works at conferences around the world. Engagements delivered in **French** and **English**.
+# ⚡ NetRunSecurity ⚡
 
-[Website](https://www.netrunsecurity.com) · [Blog](https://blog.netrunsecurity.com) · [Wiki](https://wiki.netrunsecurity.com) · [LinkedIn](https://www.linkedin.com/company/netrunsecurity/)
+**`Offensive Security · Penetration Testing · Public Speaking`**
 
----
+[![Website](https://img.shields.io/badge/netrun.sh-website-8A2BE2?style=for-the-badge)](https://www.netrunsecurity.com)
+[![Blog](https://img.shields.io/badge/blog-read-FF4500?style=for-the-badge)](https://blog.netrunsecurity.com)
+[![Wiki](https://img.shields.io/badge/wiki-notes-00CED1?style=for-the-badge)](https://wiki.netrunsecurity.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-connect-0A66C2?style=for-the-badge)](https://www.linkedin.com/company/netrunsecurity/)
 
-### Technical Services
+</div>
 
-- Web application penetration testing
-- Internal network assessment
-- Cloud security across AWS, GCP, and Azure
-- Active Directory environments
-- Physical security audits
-- Hardware and IoT security
+```console
+netrunner@mtl:~$ whoami
+Offensive security consultant & hardware hacking specialist
+Based in Montréal, QC 🍁 · FR/EN
 
-### Public Speaking
+netrunner@mtl:~$ uptime
+5+ years breaking things professionally
+150+ security assessments · 15+ conference talks
+```
 
-- Conference presentations
-- Technical workshops and training
-- Custom corporate events
-- Security awareness sessions
+## 🎯 ./services --list
 
----
+```yaml
+technical:
+  - Web Application Pentesting
+  - Internal Network Assessment
+  - Cloud Security: [AWS, GCP, Azure]
+  - Active Directory
+  - Physical Security Audit
+  - Hardware & IoT Security
 
-### Track Record
+speaking:
+  - Conference Presentations
+  - Technical Workshops & Training
+  - Custom Corporate Events
+  - Security Awareness
+```
 
-- 150+ security assessments
-- 15+ conference talks
-- 5+ years in offensive security
+## 🎤 ./talks --recent
 
-Recent and upcoming stages: NorthSec, Wild West Hackin' Fest, BSides, InCyber North America.
+| When | Where | What |
+|------|-------|------|
+| 2026-09 | BSides Montréal 🇨🇦 | Attending, come say hi |
+| 2026-05 | NorthSec 🇨🇦 | Volunteering since 2023 |
+| 2025-11 | BSides Copenhagen 🇩🇰 | Hardware Hacking Curiosity (45 min) |
+| 2025-10 | Wild West Hackin' Fest, Deadwood 🇺🇸 | Hardware Hacking Curiosity · Building your S.A.O with KiCad |
 
----
+## 📡 ./contact
 
-### Contact
-
+```console
+netrunner@mtl:~$ echo $CONTACT
 contact [at] netrunsecurity [dot] com
 
-© NetRun Security. All rights reserved.# NetRunSecurity
+netrunner@mtl:~$ exit
+# hack the planet, but with a signed scope and a report at the end.
+```
 
-**Offensive Security · Penetration Testing · Public Speaking**
+<div align="center">
 
-Offensive security consulting and hardware hacking, based in Montreal, Quebec. We help organizations find vulnerabilities before attackers do, and we talk about how it works at conferences around the world. Engagements delivered in **French** and **English**.
+`© NetRun Security · Montréal`
 
-[Website](https://www.netrunsecurity.com) · [Blog](https://blog.netrunsecurity.com) · [Wiki](https://wiki.netrunsecurity.com) · [LinkedIn](https://www.linkedin.com/company/netrunsecurity/)
-
----
-
-### Technical Services
-
-- Web application penetration testing
-- Internal network assessment
-- Cloud security across AWS, GCP, and Azure
-- Active Directory environments
-- Physical security audits
-- Hardware and IoT security
-
-### Public Speaking
-
-- Conference presentations
-- Technical workshops and training
-- Custom corporate events
-- Security awareness sessions
-
----
-
-### Track Record
-
-- 150+ security assessments
-- 15+ conference talks
-- 5+ years in offensive security
-
-Recent and upcoming stages: NorthSec, Wild West Hackin' Fest, BSides, InCyber North America.
-
----
-
-### Contact
-
-contact [at] netrunsecurity [dot] com
-
-© NetRun Security. All rights reserved.
+</div>
